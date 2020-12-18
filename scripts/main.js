@@ -1,1 +1,1 @@
-alert("Fuck Off")
+alert("Press OK if you're retarded.")
